@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="InfoToKodi.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SearchDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Z:\Videos;Z:\Recorded TV</Value>
+    </Setting>
+    <Setting Name="Overwrite" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Extensions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">*.ts;*.mp4</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
